@@ -20,7 +20,7 @@ a =a +9
 print(a)
 
 #Dynamically typed programming ,type of variable can be changed dynamically
-# Therefor python is dynamically typed programming
+# Therefore python is dynamically typed programming
 #Type of a is float
 a=9.0
 print(a)
